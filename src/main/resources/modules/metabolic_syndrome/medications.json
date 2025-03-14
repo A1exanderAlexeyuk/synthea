@@ -73,8 +73,8 @@
                   "codes": [
                     {
                       "system": "RxNorm",
-                      "code": "897122",
-                      "display": "3 ML liraglutide 6 MG/ML Pen Injector"
+                      "code": "2553400",
+                      "display": "semaglutide 0.5 MG/ML"
                     }
                   ]
                 }
@@ -98,8 +98,8 @@
                 "codes": [
                   {
                     "system": "RxNorm",
-                    "code": "897122",
-                    "display": "3 ML liraglutide 6 MG/ML Pen Injector"
+                    "code": "OMOP5168681",
+                    "display": "EFPEGLENATIDE"
                   }
                 ]
               }
@@ -117,8 +117,8 @@
       "codes": [
         {
           "system": "RxNorm",
-          "code": "897122",
-          "display": "3 ML liraglutide 6 MG/ML Pen Injector"
+          "code": "1368033",
+          "display": "alogliptin 12.5 MG"
         }
       ],
       "reason": "diabetes_stage",

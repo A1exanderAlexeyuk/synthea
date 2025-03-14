@@ -302,7 +302,7 @@
       ],
       "distributed_transition": [
         {
-          "distribution": 0.004,
+          "distribution": 0.3,
           "transition": "Set_Macular_Edema"
         },
         {
@@ -326,7 +326,7 @@
       ],
       "distributed_transition": [
         {
-          "distribution": 0.0001,
+          "distribution": 0.1,
           "transition": "Set_Blindness"
         },
         {
@@ -397,11 +397,11 @@
           },
           "distributions": [
             {
-              "distribution": 0.997,
+              "distribution": 0.9,
               "transition": "Set_Moderate_Nerve_Damage"
             },
             {
-              "distribution": 0.003,
+              "distribution": 0.1,
               "transition": "Set_Severe_Nerve_Damage"
             }
           ]
